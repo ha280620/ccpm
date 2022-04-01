@@ -1,0 +1,86 @@
+[33mcommit af7196cc40496a6b5e4d8f6236a3e13b9919e9e0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ha280620 <77819575+ha280620@users.noreply.github.com>
+Date:   Fri Apr 1 20:31:42 2022 +0700
+
+    Update add_category.php
+
+[33mcommit 61c41f20c68f5ce769d8d64b2ee10a8ad15f2ae5[m
+Merge: 621b851 a73cc94
+Author: Administrator_A.Z <thuancmag2000@gmail.com>
+Date:   Fri Apr 1 19:23:45 2022 +0700
+
+    chap nhan thay doi moi nhat tren file
+
+[33mcommit 621b8516d82eca3117ce5ecfc13c511d32adada4[m
+Author: Administrator_A.Z <thuancmag2000@gmail.com>
+Date:   Fri Apr 1 19:15:09 2022 +0700
+
+    cap nhat add catergory 1.0
+
+[33mcommit a73cc94938131ca6267981b0ade4de62292e2941[m
+Author: ha280620 <77819575+ha280620@users.noreply.github.com>
+Date:   Fri Apr 1 18:36:52 2022 +0700
+
+    Update add_category.php
+
+[33mcommit a326931e5feadb4160077aeafe94a6295b27fac1[m
+Merge: bd36868 3a018f8
+Author: Administrator_A.Z <thuancmag2000@gmail.com>
+Date:   Fri Apr 1 18:24:04 2022 +0700
+
+    Merge branch 'main' of https://github.com/ha280620/DA_CCPM
+
+[33mcommit 3a018f8c807749f80f0a867aa71fef6f46a719a0[m
+Author: VTT2000 <85988314+VTT2000@users.noreply.github.com>
+Date:   Fri Apr 1 18:22:10 2022 +0700
+
+    Cap nhat input hinh trong addcategory
+
+[33mcommit bd36868e5f0a5dc88c5332d6320b35b9269d4a9c[m
+Merge: f83b8da e9bec35
+Author: Administrator_A.Z <thuancmag2000@gmail.com>
+Date:   Fri Apr 1 18:14:00 2022 +0700
+
+    Merge branch 'main' of https://github.com/ha280620/DA_CCPM
+
+[33mcommit f83b8dab4c5ebb82ba793dde31de4134a8e31390[m
+Author: Administrator_A.Z <thuancmag2000@gmail.com>
+Date:   Fri Apr 1 18:13:31 2022 +0700
+
+    them input hinh vao addcategory
+
+[33mcommit e9bec358d25d780c1f5001cda65f74941d4beafe[m
+Author: VTT2000 <85988314+VTT2000@users.noreply.github.com>
+Date:   Fri Apr 1 18:11:40 2022 +0700
+
+    them input hinh0 trong add catergory
+
+[33mcommit 7a762bceecf5a60a9a3dfafca65c21a7f007cd64[m[33m ([m[1;31morigin/thuan[m[33m, [m[1;32mthuan[m[33m)[m
+Author: Administrator_A.Z <thuancmag2000@gmail.com>
+Date:   Fri Apr 1 17:56:28 2022 +0700
+
+    3 file
+
+[33mcommit a4b8d05f68eb39dc4e82fb4c57bf43bd1686ded8[m
+Author: Administrator_A.Z <thuancmag2000@gmail.com>
+Date:   Fri Apr 1 17:37:41 2022 +0700
+
+    push het nhung gi dang co de chuyen sang nhanh master
+
+[33mcommit 3663484d04da9a7fb5dc2ef2b1e5819a01faa9df[m
+Author: Administrator_A.Z <thuancmag2000@gmail.com>
+Date:   Fri Apr 1 17:29:20 2022 +0700
+
+    push het nhung gi dang co de chuyen sang nhanh master
+
+[33mcommit 110616095d605715debf79e614f60a76cbe118bf[m[33m ([m[1;32mquan[m[33m, [m[1;32mnhut[m[33m, [m[1;32mkhanh[m[33m, [m[1;32mha[m[33m, [m[1;32mbao[m[33m)[m
+Author: Van Ha <nguyenvanha28062000@gmail.com>
+Date:   Fri Apr 1 16:08:57 2022 +0700
+
+    add org and fix oderdetail
+
+[33mcommit b4d28d0af557e3f93d22201e4eeab979d8ea66de[m
+Author: Van Ha <nguyenvanha28062000@gmail.com>
+Date:   Fri Apr 1 15:56:05 2022 +0700
+
+    first commit
